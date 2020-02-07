@@ -18,3 +18,15 @@ var name:String = input_line
 
 // var num:Int = Int(name)
 // print(num)
+
+
+// ■ 問題1
+// xがyよりも大きければ xは大きい
+
+// xがyよりも小さければ xは小さい
+
+// xとyが同じならば xは普通
+
+// と出力するプログラムを組め.
+
+// ※模範解答は01.swift
